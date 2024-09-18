@@ -18,3 +18,9 @@ h1{
   text-transform: uppercase;
   text-decoration: dashed;
 }
+
+p{
+  margin: 0 auto;
+  padding: 0;
+  background-color: lime;
+}

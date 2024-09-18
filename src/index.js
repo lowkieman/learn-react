@@ -18,8 +18,8 @@ reportWebVitals();
 */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css'
-import './App.css'
+import './index.css';
+import './App.css';
 
 const myFirstElement = <h1>Hello React!</h1>
 const mySecondElement= <p>This is a paragraph</p>
