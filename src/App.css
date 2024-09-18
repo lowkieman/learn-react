@@ -8,8 +8,13 @@
 }
 
 main{
-  background-color: limegreen;
   margin: 0 auto;
-  height: 100vh;
   background-image: url("./logo.svg");
+  background-repeat: no-repeat;
+  color: red;
+}
+
+h1{
+  text-transform: uppercase;
+  text-decoration: dashed;
 }
