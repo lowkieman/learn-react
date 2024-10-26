@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: rgb(19, 14, 41);
+  color: white;
 }
 
 code {
@@ -26,4 +27,17 @@ span{
   background-image: linear-gradient(red, green, blue, red, yellow);
   background-clip: text;
   color: transparent;
+}
+
+p{
+  color: lime;
+
+}
+
+h4{
+  margin: 0;
+}
+
+label{
+  color: red;
 }
